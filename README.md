@@ -1,1 +1,1 @@
-# Blind-Walking-Assistant
+# Walking-Assistant-for-Blind
