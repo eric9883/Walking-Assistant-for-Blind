@@ -1,0 +1,4 @@
+bollard
+crosswalk
+block(point type)
+block(line type)
